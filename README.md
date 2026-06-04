@@ -1,2 +1,1 @@
-# day-1
-summer assignment
+#summer assignment
